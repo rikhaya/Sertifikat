@@ -1,2 +1,2 @@
 # Sertifikat
-Sertifikat SKPI/non SKPI
+Sertifikat SKPI/Non SKPI
